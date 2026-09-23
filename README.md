@@ -1,4 +1,4 @@
-# 👜 Vamp Bags Product Landing Page
+# 👜 Blackkat Product Landing Page Vamp Bags
 
 ## 📖 Overview
 This product landing page was created as part of my Responsive Web Design certification through FreeCodeCamp. The objective of the project was to build a responsive product layout with form handling using only HTML and CSS. I chose to create Vamp Bags, a fictional gothic, fantasy inspired brand, to explore dark aesthetics and give the project a unique personal style.
@@ -29,13 +29,13 @@ The page features a demo product lineup, a features section, an embedded video, 
 - Used hover states and customized the design with gothic/fantasy-inspired styling.
 
 ## 🚀 How to Use
-[`View Live Project`](https://vynxcode-ts.github.io/vamp-bags-product-landing-page/)
+[`View Live Project`](https://blackkat-dev.github.io/blackkat-product-landing-page/)
 
 1. Use the top navigation to move between sections.
 2. Enter your email and click Get Started to test the form submission.
 3. Check out the Features, How It Works video, and Pricing product options.
 4. Resize the browser window to see responsive adjustments.
-5. Click **Vynxcode** in the footer to view more about the developer on Linktree.
+5. Click **Blackkat** in the footer to view more about the developer on Linktree.
 
 ## 📂 Project Structure
 vamp-bags-product-landing-page/ `root folder`
@@ -72,11 +72,11 @@ Product Landing Page user stories and requirements.
 ## 📸 Preview
 ![Vamp Bags Product Landing Page Screenshot](./img/website-preview.png)
 
-[`View Live Project`](https://vynxcode-ts.github.io/vamp-bags-product-landing-page/)
+[`View Live Project`](https://blackkat-dev.github.io/blackkat-product-landing-page/)
 
 ## 📄 License 
 This project is provided for portfolio and educational review only. 
 Copying, redistribution, or commercial use is prohibited. 
 
-This project is licensed under a Vynxcode Proprietary License. 
-See the [LICENSE](https://github.com/vynxcode-ts/vamp-bags-product-landing-page/blob/main/LICENSE) file for full terms.
+This project is licensed under a Blackkat Proprietary License. 
+See the [LICENSE](https://github.com/blackkat-dev/blackkat-product-landing-page/blob/main/LICENSE) file for full terms.
