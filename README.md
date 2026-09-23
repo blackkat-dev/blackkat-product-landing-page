@@ -1,4 +1,4 @@
-# 👜 Blackkat Product Landing Page Vamp Bags
+# 👜 Blackkat | Product Landing Page Vamp Bags
 
 ## 📖 Overview
 This product landing page was created as part of my Responsive Web Design certification through FreeCodeCamp. The objective of the project was to build a responsive product layout with form handling using only HTML and CSS. I chose to create Vamp Bags, a fictional gothic, fantasy inspired brand, to explore dark aesthetics and give the project a unique personal style.
